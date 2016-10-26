@@ -15,6 +15,8 @@ public class CreateFawen {
 
 		WebDriver fireWebDriver = fireDriver;
 
+		System.out.println("测试github");
+		
 		// --------------------------------------
 		// 切换frame
 
